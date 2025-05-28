@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Pedro Tardely! 👋
 
-- 🔭 Atualmente me especializando em programação Front-End
-- 🌱 Atualmente aprendendendo React e Node
+- 🔭 Atualmente me especializando em Suporte tecnico.
+- 🌱 Atualmente aprendendendo redes e atendimento ao cliente.
 - 📫 Entre em contato através: pedrotardelypro@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: INGLÊS - AVANÇADO
